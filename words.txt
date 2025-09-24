@@ -1,0 +1,103 @@
+aircraft
+boarding
+baggage
+runway
+cockpit
+turbulence
+landing
+departure
+arrival
+jetway
+Check-in counter
+Boarding pass
+Baggage claim
+Carry-on luggage
+Checked baggage
+Baggage tag
+Overweight luggage
+Hand luggage
+Suitcase
+Trolley
+Luggage carousel
+Lost and found
+Luggage scanner
+Luggage allowance
+Baggage cart
+Luggage tag
+Cabin baggage
+Personal item
+Bag drop
+Luggage belt
+Passport
+Visa
+Immigration officer
+Security check
+Metal detector
+Customs
+Travel documents
+Departure card
+Passport control
+X-ray scanner
+Body scanner
+Security lane
+Customs declaration
+Border patrol
+Immigration desk
+Departure lounge
+Arrival hall
+Jetway
+Gate number
+Priority boarding
+Final call
+Flight number
+Direct flight
+Connecting flight
+Layover
+On-time departure
+Delayed flight
+Cancelled flight
+Standby
+Gate agent
+Boarding bridge
+Deplaning
+Flight status
+Airline counter
+Aircraft
+Cockpit
+Cabin crew
+Flight attendant
+Pilot
+Co-pilot
+Ground staff
+Air marshal
+Crew manifest
+Safety briefing
+Seat belt
+Emergency exit
+In-flight service
+Seat assignment
+Seat assignment
+Window seat
+Aisle seat
+Middle seat
+Seat map
+Overhead bin
+Tray table
+Terminal
+Runway
+Taxiway
+Tarmac
+Control tower
+Hangar
+Air traffic control
+Radar
+Fuel truck
+Shuttle bus
+Airport code
+Arrival board
+Departure board
+Flight schedule
+Lounge
+Duty-freeConcourse
+Escalator
+Moving walkway
